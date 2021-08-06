@@ -54,8 +54,8 @@ function surfaceArea(A) {
 
     }
     return outsideWallsMap
-
   }
+  
   return area
 }
 
